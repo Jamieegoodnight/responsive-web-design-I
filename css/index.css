@@ -71,16 +71,9 @@ h1, h2, h3, h4, h5 {
 
  @media( max-width: 800px ) {
   .container {
-    background: orange;
     width: 100%;
   }
  }
-
-@media (max-width: 500px){
-  .container {
-  background: green;
-  }
-}
 
 header {
   display: flex;
